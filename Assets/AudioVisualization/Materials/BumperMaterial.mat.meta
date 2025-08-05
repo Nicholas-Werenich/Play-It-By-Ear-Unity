@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 55feedcaf2049c4429391b187b6d4555
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163282
+  packageName: Audio Visualization
+  packageVersion: 1.1
+  assetPath: Assets/AudioVisualization/Materials/BumperMaterial.mat
+  uploadId: 404252

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b0af8cb744d7e7345b87ea6a71810cae
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163282
+  packageName: Audio Visualization
+  packageVersion: 1.1
+  assetPath: Assets/AudioVisualization/AudioVisualizationScene.unity
+  uploadId: 404252

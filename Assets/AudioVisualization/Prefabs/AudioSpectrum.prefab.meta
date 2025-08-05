@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 177b9472b6e61604dbfac6de9ddbee50
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163282
+  packageName: Audio Visualization
+  packageVersion: 1.1
+  assetPath: Assets/AudioVisualization/Prefabs/AudioSpectrum.prefab
+  uploadId: 404252

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7051438d887f04c4fa8795a0c4c3d7ff
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163282
+  packageName: Audio Visualization
+  packageVersion: 1.1
+  assetPath: Assets/AudioVisualization/Scripts/AudioBumper.cs
+  uploadId: 404252
